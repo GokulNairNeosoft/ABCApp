@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Catalog</string>
+    <string name="txt_error_occurred">Error occurred</string>
+    <string name="txt_loading">Loading</string>
+    <string name="txt_item_count">Item Count %1$d</string>
+    <string name="txt_search">Search</string>
+    <string name="txt_analysis">Analysis</string>
+    <string name="txt_no_item_found">No item found</string>
+</resources>
